@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="file:///C:/Users/dougl/Downloads/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/idhelsi/idhelsi/output/snake.svg" alt="Snake animation" />
 
 ###
