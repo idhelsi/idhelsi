@@ -1,52 +1,49 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1> Hey <img src="" width="50" /> What's up?</h1>
 
-###
+<p> My name is Douglas and I'm a javascript developer and PHP</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idhelsi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+## About me
 
-###
+- Creating bugs since 2019
+- I'm currently learning english
 
-<img align="right" height="120" src="https://64.media.tumblr.com/42c6cedbebe2a8a41793adc063a938bd/tumblr_ntip7ywsIw1tgzy56o1_400.gifv"  />
+## I code with
 
-###
+<a href="#" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/js.svg" />
+</a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/ts.svg" />
+</a>
 
-###
+<a href="#" target="_blank">
+  <img align="left" title="Html5" alt="Html5" width="40px" src="./assets/html5.svg" />
+</a>
 
-<div align="left">
-  <a href="https://www.instagram.com/idhelsi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/helsi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/GxPvgscAxw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/douglas-peltier-a982ba28b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
-  </a>
-</div>
+<a href="#" target="_blank">
+  <img align="left" title="CSS3" alt="CSS3" 
+  width="40px" src="./assets/css3.svg" />
+</a>
 
-###
+<a href="https://www.php.net/" target="_blank">
+  <img align="left" title="PHP" alt="PHP" width="40px" src="./assets/php.svg" />
+</a>
 
-<br clear="both">
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="left" title="MySql" alt="Mysql" width="40px" src="./assets/mysql.svg" />
+</a>
 
-<img src="https://raw.githubusercontent.com/idhelsi/idhelsi/output/snake.svg" alt="Snake animation" />
+<!-- <a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a> -->
 
-###
+<!-- <a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a> -->
+
+<!-- <a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a> -->
+
+</a>
