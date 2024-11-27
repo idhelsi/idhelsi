@@ -1,4 +1,4 @@
-<h1> Hey <img src="" width="50" /> What's up?</h1>
+<h1> Hey What's up?</h1>
 
 <p> My name is Douglas and I'm a javascript developer and PHP</p>
 
