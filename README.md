@@ -4,7 +4,7 @@
 
 ## About me
 
-- Creating bugs since 2019
+- Creating bugs since 2023
 - I'm currently learning english
 
 ## I code with
