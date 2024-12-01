@@ -9,7 +9,7 @@
 
 ## I code with
 
-<a href="#" target="_blank">
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/js.svg" />
 </a>
 
@@ -17,13 +17,18 @@
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/ts.svg" />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://html.spec.whatwg.org" target="_blank">
   <img align="left" title="Html5" alt="Html5" width="40px" src="./assets/html5.svg" />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
   <img align="left" title="CSS3" alt="CSS3" 
   width="40px" src="./assets/css3.svg" />
+</a>
+
+
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tw.svg" />
 </a>
 
 <a href="https://www.php.net/" target="_blank">
@@ -35,15 +40,11 @@
 </a>
 
 <!-- <a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a> -->
-
-<!-- <a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react.svg" />
 </a> -->
 
 <!-- <a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next.svg" />
 </a> -->
 
 </a>
