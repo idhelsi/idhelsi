@@ -39,12 +39,12 @@
   <img align="left" title="MySql" alt="Mysql" width="40px" src="./assets/mysql.svg" />
 </a>
 
-<!-- <a href="https://pt-br.reactjs.org" target="_blank">
+<a href="https://pt-br.reactjs.org" target="_blank">
  <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react.svg" />
-</a> -->
+</a>
 
-<!-- <a href="https://nextjs.org" target="_blank">
+<a href="https://nextjs.org" target="_blank">
   <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next.svg" />
-</a> -->
+</a> 
 
 </a>
