@@ -9,6 +9,14 @@
 
 ## I code with
 
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next.svg" />
+</a> 
+
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react.svg" />
+</a>
+
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/js.svg" />
 </a>
@@ -38,13 +46,5 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img align="left" title="MySql" alt="Mysql" width="40px" src="./assets/mysql.svg" />
 </a>
-
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react.svg" />
-</a>
-
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next.svg" />
-</a> 
 
 </a>
